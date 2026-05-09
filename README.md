@@ -19,7 +19,7 @@
 | 1   | Phạm Ngọc Long  | 2211894 | long.phamngoc2607@hcmut.edu.vn |
 | 2   | Nguyễn Ngọc Duy | 2210522 |                                |
 | 3   | Võ Quốc Phong   | 2352913 |                                |
-| 4   | Nguyễn Tấn Đạt  | 2352234 |                                |
+| 4   | Nguyễn Tấn Đạt  | 2352234 |dat.nguyenshiesuta|
 
 ## Mục tiêu bài tập lớn
 
