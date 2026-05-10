@@ -17,8 +17,8 @@
 | STT | Họ và tên       | MSSV    | Email                          |
 | --- | --------------- | ------- | ------------------------------ |
 | 1   | Phạm Ngọc Long  | 2211894 | long.phamngoc2607@hcmut.edu.vn |
-| 2   | Nguyễn Ngọc Duy | 2210522 |                                |
-| 3   | Võ Quốc Phong   | 2352913 |                                |
+| 2   | Nguyễn Ngọc Duy | 2210522 |duy.nguyen2210522@hcmut.edu.vn|
+| 3   | Võ Quốc Phong   | 2352913 |phong.voquocwd2005@hcmut.edu.vn|
 | 4   | Nguyễn Tấn Đạt  | 2352234 |dat.nguyenshiesuta@hcmut.edu.vn|
 
 ## Mục tiêu bài tập lớn
